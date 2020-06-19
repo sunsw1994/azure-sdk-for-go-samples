@@ -1,0 +1,24 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Launch",
+            "type": "go",
+            "request": "launch",
+            "mode": "auto",
+            "program": "${fileDirname}",
+            "env": {"AZURE_CLIENT_ID":"68cf6b40-418f-461c-9dfa-02be9a44448f",
+                    "AZURE_CLIENT_SECRET":".ZK3xtb4x~k47X6wgl3n~2E-LoxMBan7.~",
+                    "AZURE_SUBSCRIPTION_ID":"964c10bb-8a6c-43bc-83d3-6b318c6c7305",
+                    "AZURE_TENANT_ID":"72f988bf-86f1-41af-91ab-2d7cd011db47",
+                    "AZURE_BASE_GROUP_NAME":"az-samples-go",
+                    "AZURE_LOCATION_DEFAULT":"eastus",
+                    "AZURE_KEEP_SAMPLE_RESOURCES":"0"
+                    },
+            "args": []
+        }
+    ]
+}

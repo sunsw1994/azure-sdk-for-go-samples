@@ -9,15 +9,16 @@ require (
 	github.com/Azure/azure-amqp-common-go v1.1.4
 	github.com/Azure/azure-event-hubs-go v1.3.0
 	github.com/Azure/azure-pipeline-go v0.1.9 // indirect
-	github.com/Azure/azure-sdk-for-go v39.2.0+incompatible
+	github.com/Azure/azure-sdk-for-go v43.1.0+incompatible
 	github.com/Azure/azure-storage-blob-go v0.0.0-20181023070848-cf01652132cc
-	github.com/Azure/go-autorest v13.3.2+incompatible // indirect
-	github.com/Azure/go-autorest/autorest v0.9.4
-	github.com/Azure/go-autorest/autorest/adal v0.8.1
+	github.com/Azure/go-autorest v14.1.1+incompatible // indirect
+	github.com/Azure/go-autorest/autorest v0.10.2
+	github.com/Azure/go-autorest/autorest/adal v0.8.3
 	github.com/Azure/go-autorest/autorest/azure/auth v0.4.2
 	github.com/Azure/go-autorest/autorest/date v0.2.0
 	github.com/Azure/go-autorest/autorest/to v0.3.0
-	github.com/Azure/go-autorest/autorest/validation v0.2.0 // indirect
+	github.com/Azure/go-autorest/autorest/validation v0.2.0
+	github.com/Azure/go-autorest/tracing v0.5.0
 	github.com/denisenkom/go-mssqldb v0.0.0-20190515213511-eb9f6a1743f3
 	github.com/globalsign/mgo v0.0.0-20181015135952-eeefdecb41b8
 	github.com/gobuffalo/envy v1.7.0
